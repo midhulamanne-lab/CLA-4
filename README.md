@@ -1,7 +1,7 @@
 # CLA-4
 
-![ image loaded successfully.
-](output.png)
+
+<img src="output.png" alt="Output Image" width="700">
 
 ## Aim
 To perform the given Computer Vision experiment and display the output using Python.
