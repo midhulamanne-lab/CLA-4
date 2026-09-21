@@ -16,16 +16,6 @@ The program processes the input image and produces the required output.
 - NumPy
 - Matplotlib
 
-## Code
+## Conclusion 
 
-```python
-import cv2
-import matplotlib.pyplot as plt
-
-img = cv2.imread("input.jpg")
-
-img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-
-plt.imshow(img_rgb)
-plt.axis("off")
-plt.show()
+Thus, the given Computer Vision experiment was successfully implemented using Python, and the required output was obtained successfully.
