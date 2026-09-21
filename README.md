@@ -1,5 +1,4 @@
 # CLA-4
-# CLA-4
 
 ![ image loaded successfully.
 ](output.png)
