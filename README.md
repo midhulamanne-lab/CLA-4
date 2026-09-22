@@ -1,5 +1,5 @@
 # CLA-4
-<img src="biscc.jpg" alt="Output Image" width="700">
+<img src="output.png" alt="Output Image" width="700">
 
 ## Aim
 To perform the given Computer Vision experiment and display the output using Python.
